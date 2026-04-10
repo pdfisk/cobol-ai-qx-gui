@@ -65,7 +65,7 @@ qx.Class.define("CobolAiGui.Application",
       // Add an event listener
       button1.addListener("execute", function() {
         /* eslint no-alert: "off" */
-        alert("Hello World!");
+        alert("Hello CobolAiStudio");
       });
     }
   }
